@@ -3,6 +3,8 @@
 
 ## 💻 Sobre o projeto
 
+https://friendly-tiramisu-642077.netlify.app
+
 Ignite Timer - é um sistema de timer de atividades no estilo de técnica Pomodoro, podendo interromper uma atividade e consultar a listagem de atividades na página de histórico com as informações de cada atividade e seu status.
 
 Projeto desenvolvido no curso da trilha Ignite da [Rocketseat].
