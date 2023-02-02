@@ -31,6 +31,7 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- ReactJS
 - [TypeScript]
 - [Styled Components]
 - Temas
