@@ -15,6 +15,16 @@ O layout da aplicação está disponível no Figma:
   <img src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img  title="imagem01" src="./src/assets/Captura%20de%20tela%20de%202023-02-02%2001-02-06.png" width="500px">
+
+  <img  title="imagem02" src="./src/assets/Captura%20de%20tela%20de%202023-02-02%2001-02-24.png" width="500px">
+  
+  <img  title="imagem03" src="./src/assets/Captura%20de%20tela%20de%202023-02-02%2001-03-06.png" width="500px">
+</p>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
